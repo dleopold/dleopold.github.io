@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christian P. Giardina | Devin R Leopold</title>
-    <link>https://dleopold.github.io/author/christian-p.-giardina/</link>
-      <atom:link href="https://dleopold.github.io/author/christian-p.-giardina/index.xml" rel="self" type="application/rss+xml" />
-    <description>Christian P. Giardina</description>
+    <title>Kainana Francisco | Devin R Leopold</title>
+    <link>https://dleopold.github.io/author/kainana-francisco/</link>
+      <atom:link href="https://dleopold.github.io/author/kainana-francisco/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kainana Francisco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dleopold.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Christian P. Giardina</title>
-      <link>https://dleopold.github.io/author/christian-p.-giardina/</link>
+      <title>Kainana Francisco</title>
+      <link>https://dleopold.github.io/author/kainana-francisco/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://dleopold.github.io/publication/barney-2021/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://dleopold.github.io/publication/barney-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiscale analysis of canopy arthropod diversity in a volcanically fragmented landscape</title>
-      <link>https://dleopold.github.io/publication/tielens-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/tielens-2019/</guid>
       <description></description>
     </item>
     
