@@ -2,61 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devin R Leopold</title>
-    <link>https://dleopold.github.io/author/devin-r-leopold/</link>
-      <atom:link href="https://dleopold.github.io/author/devin-r-leopold/index.xml" rel="self" type="application/rss+xml" />
+    <link>dleopold.github.io/author/devin-r-leopold/</link>
+      <atom:link href="dleopold.github.io/author/devin-r-leopold/index.xml" rel="self" type="application/rss+xml" />
     <description>Devin R Leopold</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://dleopold.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/dleopold.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Devin R Leopold</title>
-      <link>https://dleopold.github.io/author/devin-r-leopold/</link>
+      <link>dleopold.github.io/author/devin-r-leopold/</link>
     </image>
     
     <item>
-      <title>Successful management of invasive rats across a fragmented landscape</title>
-      <link>https://dleopold.github.io/publication/barney-2021/</link>
-      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/barney-2021/</guid>
+      <title>Diversity of putative ericoid mycorrhizal fungi increases with soil age and progressive phosphorus limitation across a 4.1 million-year chronosequence</title>
+      <link>dleopold.github.io/publication/leopold-2021-fems/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2021-fems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Greater local diversity under older species pools may arise from enhanced competitive equivalence</title>
-      <link>https://dleopold.github.io/publication/leopold-2020a/</link>
-      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/leopold-2020a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diversity of putative ericoid mycorrhizal fungi increases with soil age and progressive phosphorus limitation across a 4.1 million-year chronosequence</title>
-      <link>https://dleopold.github.io/publication/leopold-2021-fems/</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/leopold-2021-fems/</guid>
+      <link>dleopold.github.io/publication/leopold-2020a/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Host Genotype and Colonist Arrival Order Jointly Govern Plant Microbiome Composition and Function</title>
-      <link>https://dleopold.github.io/publication/leopold-2020/</link>
+      <link>dleopold.github.io/publication/leopold-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/leopold-2020/</guid>
+      <guid>dleopold.github.io/publication/leopold-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiating spatial from environmental effects on foliar fungal communities of Populus trichocarpa</title>
-      <link>https://dleopold.github.io/publication/barge-2019/</link>
+      <link>dleopold.github.io/publication/barge-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/barge-2019/</guid>
+      <guid>dleopold.github.io/publication/barge-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://dleopold.github.io/post/jupyter/</link>
+      <link>dleopold.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/post/jupyter/</guid>
+      <guid>dleopold.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -97,47 +89,48 @@ date: 2019-09-01
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir=.
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
-&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at 
+&lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multiscale analysis of canopy arthropod diversity in a volcanically fragmented landscape</title>
-      <link>https://dleopold.github.io/publication/tielens-2019/</link>
+      <link>dleopold.github.io/publication/tielens-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/tielens-2019/</guid>
+      <guid>dleopold.github.io/publication/tielens-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocols for Investigating the Leaf Mycobiome Using High-Throughput DNA Sequencing</title>
-      <link>https://dleopold.github.io/publication/brown-2018/</link>
+      <link>dleopold.github.io/publication/brown-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/brown-2018/</guid>
+      <guid>dleopold.github.io/publication/brown-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Priority effects are interactively regulated by top-down and bottom-up forces: evidence from wood decomposer communities</title>
-      <link>https://dleopold.github.io/publication/leopold-2017/</link>
+      <link>dleopold.github.io/publication/leopold-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/leopold-2017/</guid>
+      <guid>dleopold.github.io/publication/leopold-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forest area and connectivity influence root-associated fungal communities in a fragmented landscape</title>
-      <link>https://dleopold.github.io/publication/vannette-2016/</link>
+      <link>dleopold.github.io/publication/vannette-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/vannette-2016/</guid>
+      <guid>dleopold.github.io/publication/vannette-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://dleopold.github.io/post/getting-started/</link>
+      <link>dleopold.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/post/getting-started/</guid>
+      <guid>dleopold.github.io/post/getting-started/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 
@@ -279,25 +272,25 @@ date: 2019-09-01
     
     <item>
       <title>Ericoid fungal diversity: Challenges and opportunities for mycorrhizal research</title>
-      <link>https://dleopold.github.io/publication/leopold-2016/</link>
+      <link>dleopold.github.io/publication/leopold-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/leopold-2016/</guid>
+      <guid>dleopold.github.io/publication/leopold-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precipitation alters the strength of evolutionary priority effects in forest community assembly of pteridophytes and angiosperms</title>
-      <link>https://dleopold.github.io/publication/brandt-2016/</link>
+      <link>dleopold.github.io/publication/brandt-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/brandt-2016/</guid>
+      <guid>dleopold.github.io/publication/brandt-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary priority effects in New Zealand alpine plants across environmental gradients</title>
-      <link>https://dleopold.github.io/publication/leopold-2015/</link>
+      <link>dleopold.github.io/publication/leopold-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://dleopold.github.io/publication/leopold-2015/</guid>
+      <guid>dleopold.github.io/publication/leopold-2015/</guid>
       <description></description>
     </item>
     
