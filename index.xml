@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Devin R Leopold</title>
-    <link>dleopold.github.io/</link>
-      <atom:link href="dleopold.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dleopold.github.io/</link>
+      <atom:link href="https://dleopold.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Devin R Leopold</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/dleopold.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://dleopold.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Devin R Leopold</title>
-      <link>dleopold.github.io/</link>
+      <link>https://dleopold.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>dleopold.github.io/talk/example-talk/</link>
+      <link>https://dleopold.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/talk/example-talk/</guid>
+      <guid>https://dleopold.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,17 +34,17 @@
     
     <item>
       <title>Diversity of putative ericoid mycorrhizal fungi increases with soil age and progressive phosphorus limitation across a 4.1 million-year chronosequence</title>
-      <link>dleopold.github.io/publication/leopold-2021-fems/</link>
+      <link>https://dleopold.github.io/publication/leopold-2021-fems/</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/leopold-2021-fems/</guid>
+      <guid>https://dleopold.github.io/publication/leopold-2021-fems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>dleopold.github.io/post/getting-started/</link>
+      <link>https://dleopold.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/post/getting-started/</guid>
+      <guid>https://dleopold.github.io/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -122,9 +122,9 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>dleopold.github.io/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://dleopold.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>dleopold.github.io/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://dleopold.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>&lt;h1 id=&#34;r-markdown&#34;&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
@@ -155,7 +155,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;n&#34;&gt;init.angle&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;m&#34;&gt;-50&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;border&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;NA&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;figure&#34;&gt;
-&lt;img src=&#34;dleopold.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://dleopold.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;Figure 1: A fancy pie chart.&lt;/p&gt;
 &lt;/div&gt;
 </description>
@@ -163,33 +163,33 @@
     
     <item>
       <title>Greater local diversity under older species pools may arise from enhanced competitive equivalence</title>
-      <link>dleopold.github.io/publication/leopold-2020a/</link>
+      <link>https://dleopold.github.io/publication/leopold-2020a/</link>
       <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/leopold-2020a/</guid>
+      <guid>https://dleopold.github.io/publication/leopold-2020a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Host Genotype and Colonist Arrival Order Jointly Govern Plant Microbiome Composition and Function</title>
-      <link>dleopold.github.io/publication/leopold-2020/</link>
+      <link>https://dleopold.github.io/publication/leopold-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/leopold-2020/</guid>
+      <guid>https://dleopold.github.io/publication/leopold-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differentiating spatial from environmental effects on foliar fungal communities of Populus trichocarpa</title>
-      <link>dleopold.github.io/publication/barge-2019/</link>
+      <link>https://dleopold.github.io/publication/barge-2019/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/barge-2019/</guid>
+      <guid>https://dleopold.github.io/publication/barge-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>dleopold.github.io/post/writing-technical-content/</link>
+      <link>https://dleopold.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/post/writing-technical-content/</guid>
+      <guid>https://dleopold.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -289,7 +289,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-546328719&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-546791823&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -299,7 +299,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-546328719&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-546791823&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -581,9 +581,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>dleopold.github.io/post/jupyter/</link>
+      <link>https://dleopold.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/post/jupyter/</guid>
+      <guid>https://dleopold.github.io/post/jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -640,9 +640,9 @@ Crash --&gt; [*]
     
     <item>
       <title>Slides</title>
-      <link>dleopold.github.io/slides/example/</link>
+      <link>https://dleopold.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/slides/example/</guid>
+      <guid>https://dleopold.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -765,41 +765,41 @@ $$&lt;/p&gt;
     
     <item>
       <title>Multiscale analysis of canopy arthropod diversity in a volcanically fragmented landscape</title>
-      <link>dleopold.github.io/publication/tielens-2019/</link>
+      <link>https://dleopold.github.io/publication/tielens-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/tielens-2019/</guid>
+      <guid>https://dleopold.github.io/publication/tielens-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocols for Investigating the Leaf Mycobiome Using High-Throughput DNA Sequencing</title>
-      <link>dleopold.github.io/publication/brown-2018/</link>
+      <link>https://dleopold.github.io/publication/brown-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/brown-2018/</guid>
+      <guid>https://dleopold.github.io/publication/brown-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Priority effects are interactively regulated by top-down and bottom-up forces: evidence from wood decomposer communities</title>
-      <link>dleopold.github.io/publication/leopold-2017/</link>
+      <link>https://dleopold.github.io/publication/leopold-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/leopold-2017/</guid>
+      <guid>https://dleopold.github.io/publication/leopold-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Forest area and connectivity influence root-associated fungal communities in a fragmented landscape</title>
-      <link>dleopold.github.io/publication/vannette-2016/</link>
+      <link>https://dleopold.github.io/publication/vannette-2016/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/vannette-2016/</guid>
+      <guid>https://dleopold.github.io/publication/vannette-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>dleopold.github.io/project/example/</link>
+      <link>https://dleopold.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/project/example/</guid>
+      <guid>https://dleopold.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -810,41 +810,41 @@ $$&lt;/p&gt;
     
     <item>
       <title>External Project</title>
-      <link>dleopold.github.io/project/external-project/</link>
+      <link>https://dleopold.github.io/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/project/external-project/</guid>
+      <guid>https://dleopold.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ericoid fungal diversity: Challenges and opportunities for mycorrhizal research</title>
-      <link>dleopold.github.io/publication/leopold-2016/</link>
+      <link>https://dleopold.github.io/publication/leopold-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/leopold-2016/</guid>
+      <guid>https://dleopold.github.io/publication/leopold-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Precipitation alters the strength of evolutionary priority effects in forest community assembly of pteridophytes and angiosperms</title>
-      <link>dleopold.github.io/publication/brandt-2016/</link>
+      <link>https://dleopold.github.io/publication/brandt-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/brandt-2016/</guid>
+      <guid>https://dleopold.github.io/publication/brandt-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolutionary priority effects in New Zealand alpine plants across environmental gradients</title>
-      <link>dleopold.github.io/publication/leopold-2015/</link>
+      <link>https://dleopold.github.io/publication/leopold-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/publication/leopold-2015/</guid>
+      <guid>https://dleopold.github.io/publication/leopold-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>dleopold.github.io/admin/config.yml</link>
+      <link>https://dleopold.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>dleopold.github.io/admin/config.yml</guid>
+      <guid>https://dleopold.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
