@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Devin R Leopold</title>
+    <link>dleopold.github.io/publication/</link>
+      <atom:link href="dleopold.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 29 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/dleopold.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>dleopold.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Diversity of putative ericoid mycorrhizal fungi increases with soil age and progressive phosphorus limitation across a 4.1 million-year chronosequence</title>
+      <link>dleopold.github.io/publication/leopold-2021-fems/</link>
+      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2021-fems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greater local diversity under older species pools may arise from enhanced competitive equivalence</title>
+      <link>dleopold.github.io/publication/leopold-2020a/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2020a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Host Genotype and Colonist Arrival Order Jointly Govern Plant Microbiome Composition and Function</title>
+      <link>dleopold.github.io/publication/leopold-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differentiating spatial from environmental effects on foliar fungal communities of Populus trichocarpa</title>
+      <link>dleopold.github.io/publication/barge-2019/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/barge-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale analysis of canopy arthropod diversity in a volcanically fragmented landscape</title>
+      <link>dleopold.github.io/publication/tielens-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/tielens-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocols for Investigating the Leaf Mycobiome Using High-Throughput DNA Sequencing</title>
+      <link>dleopold.github.io/publication/brown-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/brown-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priority effects are interactively regulated by top-down and bottom-up forces: evidence from wood decomposer communities</title>
+      <link>dleopold.github.io/publication/leopold-2017/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forest area and connectivity influence root-associated fungal communities in a fragmented landscape</title>
+      <link>dleopold.github.io/publication/vannette-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/vannette-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ericoid fungal diversity: Challenges and opportunities for mycorrhizal research</title>
+      <link>dleopold.github.io/publication/leopold-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precipitation alters the strength of evolutionary priority effects in forest community assembly of pteridophytes and angiosperms</title>
+      <link>dleopold.github.io/publication/brandt-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/brandt-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary priority effects in New Zealand alpine plants across environmental gradients</title>
+      <link>dleopold.github.io/publication/leopold-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>dleopold.github.io/publication/leopold-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

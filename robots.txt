@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: dleopold.github.io/sitemap.xml
